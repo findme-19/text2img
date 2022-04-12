@@ -1,0 +1,15 @@
+{
+  "name": "text2img",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Gweh",
+  "license": "ISC"
+}
